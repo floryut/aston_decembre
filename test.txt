@@ -1,3 +1,9 @@
 Bonjour
+<<<<<<< HEAD
 hola
+=======
+ êtes ici en salle pigeon
+Salut
+les amis
+>>>>>>> 24b3f8ba145223c79f4dd86e8a89c510c2e28742
 
